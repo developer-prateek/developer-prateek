@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @developer-prateek
-- 👀 I’m interested in Python/Java Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in React
+- 🌱 I’m currently learning JavaScript Frameworks
 - 💞️ I’m looking to collaborate on Collaboration Repository
 - 📫 Mail: prateek_singh_tomer@outlook.com
 
